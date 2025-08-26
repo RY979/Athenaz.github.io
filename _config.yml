@@ -3,6 +3,7 @@ description: "Analytics portfolio"
 url: "https://ry979.github.io"  
 baseurl: ""                     
 
+minimal_mistakes_skin: dirt
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-include-cache
