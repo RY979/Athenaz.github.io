@@ -1,6 +1,15 @@
+title: "Athena Zhang"
+description: "Analytics portfolio"
+url: "https://ry979.github.io"  
+baseurl: ""                     
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-include-cache
+
 author:
   name: "Athena Zhang"
-  avatar: /assets/images/profile.jpg
+  avatar: "/assets/images/profile.jpg"
   bio: "Northeastern '25"
   location: "Boston, MA"
   links:
@@ -13,3 +22,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/athena-zhang-49778a263/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Athenaz"
