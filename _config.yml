@@ -1,0 +1,19 @@
+title: Athena Zhang
+description: Analytics portfolio
+url: https://athenaz.github.io
+baseurl: ""
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Athena Zhang"
+  avatar: /assets/images/profile.jpg
+  links:
+    - label: "GitHub"
+      icon: fab fa-github
+      url: https://github.com/Athenaz
+    - label: "LinkedIn"
+      icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/athenazhang/
