@@ -7,14 +7,15 @@
 /* --- gallery grid --- */
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); 
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* bigger base */
   gap: 20px;
 }
+
 .gallery-item img {
-  width: 200%;
+  width: 100%;
   height: auto;
   object-fit: contain;
-  border-radius: 15px;
-  display: block;
+  border-radius: 10px;
 }
+
 .gallery-item:hover img { opacity: .9; }
