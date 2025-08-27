@@ -2,8 +2,10 @@
 layout: single
 title: "Gallery"
 permalink: /gallery/
+classes: wide       
 author_profile: true
 ---
+
 
 <div class="gallery-grid">
 {% assign pics = site.static_files | where_exp: "f", "f.path contains '/assets/gallery/'" | sort: "path" %}
