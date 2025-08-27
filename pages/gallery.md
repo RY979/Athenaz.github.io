@@ -13,17 +13,3 @@ author_profile: true
   </a>
 {% endfor %}
 </div>
-/* --- gallery grid --- */
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 12px;
-}
-.gallery-item img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-  border-radius: 8px;
-  display: block;
-}
-.gallery-item:hover img { opacity: .9; }
