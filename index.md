@@ -4,7 +4,7 @@ title: "Hello and Welcome!"
 author_profile: true
 classes: wide
 ---
-<span style="font-size:0.9em;">
+<div style="font-size:12px;">
 
 I am Athena Zhang, a recent graduate from Northeastern University with high honors in Mathematics and Business Administration, concentrating in Marketing Analytics.  
 
@@ -21,4 +21,4 @@ If you are curious about my work, the <a href="./projects" style="color:#1E90FF;
 See some of my favorite photography in the <a href="./gallery" style="color:#1E90FF;">Gallery</a>.  
 
 Thank you for visiting. My resume, email, and social links are all in the sidebar, so feel free to connect with me :D
-
+</div>
