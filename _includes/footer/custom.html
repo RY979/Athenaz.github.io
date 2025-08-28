@@ -1,11 +1,11 @@
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 <script>
-if (!window.__athenaGlightboxInit) {
-  window.__athenaGlightboxInit = true;
-  window.athenaLightbox = GLightbox({
-    selector: '.athena-lightbox',
-    touchNavigation: true,
-    loop: true
-  });
-}
+  if (!window.__athenaGlightboxInit) {
+    window.__athenaGlightboxInit = true;
+    window.athenaLightbox = GLightbox({
+      selector: '.gallery-grid .athena-lightbox',  // << unique class so theme won't double-init
+      touchNavigation: true,
+      loop: true
+    });
+  }
 </script>
