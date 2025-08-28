@@ -1,10 +1,9 @@
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 <script>
-  // Prevent double-init if this file gets injected twice
   if (!window.__athenaGlightboxInit) {
     window.__athenaGlightboxInit = true;
     window.athenaLightbox = GLightbox({
-      selector: '.gallery-grid .glightbox', // only anchors in your gallery
+      selector: '.gallery-grid .athena-lightbox',  // << unique class so theme won't double-init
       touchNavigation: true,
       loop: true
     });
