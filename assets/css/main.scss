@@ -27,11 +27,26 @@
   transition: opacity 0.6s ease-in-out;
 }
 
+/* Smooth, noticeable fade like Google Slides */
 .glightbox-container {
   opacity: 0;
-  transition: opacity 0.6s ease-in-out;  /* 👈 slower fade (0.6s like Google Slides) */
+  transition: opacity 0.6s ease-in-out; /* lengthen the fade */
+}
+.glightbox-container.glightbox-open {
+  opacity: 1; /* when GLightbox adds this class, it fades in */
 }
 
-.glightbox-container.glightbox-open {
+/* Cross-fade between slides (not a hard snap) */
+.glightbox-container .gslide {
+  opacity: 0;
+  transition: opacity 0.6s ease-in-out;
+}
+.glightbox-container .gslide.current {
   opacity: 1;
 }
+
+/* Optional: ease the image itself (helps with very large images) */
+.glightbox-container .gslide img {
+  transition: opacity 0.6s ease-in-out;
+}
+
