@@ -10,7 +10,7 @@ author_profile: true
 
   <!-- Featured 9 -->
   <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC02842 Large.jpeg' | relative_url }}" data-gallery="athena">
-    <img src="{{ '/assets/gallery/DSC02744 copy Large.jpeg' | relative_url }}" alt="DSC02842" loading="lazy">
+    <img src="{{ '/assets/gallery/DSC02842 Large.jpeg' | relative_url }}" alt="DSC02842" loading="lazy">
   </a>
   <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC02795 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC02795 Large.jpeg' | relative_url }}" alt="DSC02795" loading="lazy">
@@ -22,7 +22,7 @@ author_profile: true
     <img src="{{ '/assets/gallery/DSC00047 Large.jpeg' | relative_url }}" alt="DSC00047" loading="lazy">
   </a>
   <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC00423 Large.jpeg' | relative_url }}" data-gallery="athena">
-    <img src="{{ '/assets/gallery/DSC0423 copy Large.jpeg' | relative_url }}" alt="DSCF0423" loading="lazy">
+    <img src="{{ '/assets/gallery/DSC00423 Large.jpeg' | relative_url }}" alt="DSC00423" loading="lazy">
   </a>
   <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC01944 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC01944 Large.jpeg' | relative_url }}" alt="DSC01944" loading="lazy">
