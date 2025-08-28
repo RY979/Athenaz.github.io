@@ -13,7 +13,7 @@ author_profile: true
   <div class="gallery-item"><img src="/assets/gallery/DSC02795 Large.jpeg" alt="DSC02795"></div>
   <div class="gallery-item"><img src="/assets/gallery/DSC02770 Large.jpeg" alt="DSC02770"></div>
   <div class="gallery-item"><img src="/assets/gallery/DSC00047 Large.jpeg" alt="DSC00047"></div>
-  <div class="gallery-item"><img src="/assets/gallery/DSCF0423 Large.jpeg copy Large.jpeg" alt="DSCF0423"></div>
+  <div class="gallery-item"><img src="/assets/gallery/DSCF0423 Large.jpeg" alt="DSCF0423"></div>
   <div class="gallery-item"><img src="/assets/gallery/DSC01944 Large.jpeg" alt="DSC01944"></div>
   <div class="gallery-item"><img src="/assets/gallery/DSC01232 Large.jpeg" alt="DSC01232"></div>
   <div class="gallery-item"><img src="/assets/gallery/DSC00743 Large.jpeg" alt="DSC00743"></div>
