@@ -1,8 +1,12 @@
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 <script>
-  const lightbox = GLightbox({
-    selector: '.glightbox',
-    touchNavigation: true,
-    loop: true
-  });
+  // Prevent double-init if this file gets injected twice
+  if (!window.__athenaGlightboxInit) {
+    window.__athenaGlightboxInit = true;
+    window.athenaLightbox = GLightbox({
+      selector: '.gallery-grid .glightbox', // only anchors in your gallery
+      touchNavigation: true,
+      loop: true
+    });
+  }
 </script>
