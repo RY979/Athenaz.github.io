@@ -25,3 +25,12 @@
   object-fit: cover;   
   display: block;
 }
+
+.glightbox-container {
+  opacity: 0;
+  transition: opacity 0.6s ease-in-out;  /* 👈 slower fade (0.6s like Google Slides) */
+}
+
+.glightbox-container.glightbox-open {
+  opacity: 1;
+}
