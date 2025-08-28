@@ -2,7 +2,6 @@
 layout: single
 title: "Athena Zhang"
 author_profile: true
-classes: wide
 ---
 
 Hi, I’m Athena.
