@@ -6,7 +6,7 @@ author_profile: true
 
 Hello and welcome!
 
-I’m Athena Zhang, a recent graduate from Northeastern University with high honors. I majored in Mathematics and Business Administration, with a concentration in Marketing Analytics.
+I'm Athena Zhang, a recent graduate from Northeastern University with high honors. I majored in Mathematics and Business Administration, with a concentration in Marketing Analytics.
 
 I’m someone who thinks deeply and always chooses to take a step forward. I’ve completed two co-ops—one at TJX focusing on store operations and analytics, and another at Sephora focused on merchandising. I also interned twice with Taco Bell Brand Marketing. You can learn more about my background on the [About](./about) page.
 
