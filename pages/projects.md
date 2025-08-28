@@ -2,6 +2,7 @@
 layout: single
 title: "Projects"
 permalink: /projects/
+classes: wide
 author_profile: true
 ---
 
