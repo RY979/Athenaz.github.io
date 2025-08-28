@@ -9,31 +9,31 @@ author_profile: true
 <div class="gallery-grid">
 
   <!-- Featured 9 -->
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC02842 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC02842 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC02842 Large.jpeg' | relative_url }}" alt="DSC02842" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC02795 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC02795 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC02795 Large.jpeg' | relative_url }}" alt="DSC02795" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC02770 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC02770 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC02770 Large.jpeg' | relative_url }}" alt="DSC02770" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC00047 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC00047 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC00047 Large.jpeg' | relative_url }}" alt="DSC00047" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC00423 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC00423 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC00423 Large.jpeg' | relative_url }}" alt="DSC00423" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC01944 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC01944 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC01944 Large.jpeg' | relative_url }}" alt="DSC01944" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC01232 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC01232 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC01232 Large.jpeg' | relative_url }}" alt="DSC01232" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC00743 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC00743 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC00743 Large.jpeg' | relative_url }}" alt="DSC00743" loading="lazy">
   </a>
-  <a class="gallery-item glightbox" href="{{ '/assets/gallery/DSC02187 Large.jpeg' | relative_url }}" data-gallery="athena">
+  <a class="gallery-item athena-glightbox" href="{{ '/assets/gallery/DSC02187 Large.jpeg' | relative_url }}" data-gallery="athena">
     <img src="{{ '/assets/gallery/DSC02187 Large.jpeg' | relative_url }}" alt="DSC02187" loading="lazy">
   </a>
 
@@ -49,7 +49,7 @@ author_profile: true
           or f.path contains 'DSC01232 Large.jpeg'
           or f.path contains 'DSC00743 Large.jpeg'
           or f.path contains 'DSC02187 Large.jpeg' %}
-      <a class="gallery-item glightbox" href="{{ f.path | relative_url }}" data-gallery="athena">
+      <a class="gallery-item athena-glightbox" href="{{ f.path | relative_url }}" data-gallery="athena">
         <img src="{{ f.path | relative_url }}" alt="{{ f.name }}" loading="lazy">
       </a>
     {% endunless %}
