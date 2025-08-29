@@ -6,14 +6,14 @@ classes: wide
 author_profile: true
 ---
 
-## Background
-- Merchandising experience at Sephora across omni channels
-- Co‑op at TJX focusing on store operations and analytics
-- Strong skills in SQL, Python, Power BI, and DAX
+## 🌟 TJX  
+**Marmaxx Store Operations and Field Escalation**  
+At TJX, I supported the Marmaxx Store Operations team by building dashboards in Power BI that visualized trends in store-level issues, attrition, and customer experience. I also worked on field escalation projects like revising dressing room layouts and analyzing the impact of cashier-on-wheels in high-traffic locations. I often collaborated with cross-functional teams and store managers to bring data into everyday decision making.
 
-## What I’m working on
-- Building dashboards for store performance and customer experience
-- Turning data into clear recommendations for retail decisions
+## 💄 Sephora  
+**Omnichannel Merchandising**  
+At Sephora, I worked across online and offline channels to support seasonal launches and core assortment planning. I used sales data to adjust product placement strategies and collaborated with regional teams to localize assortments. I was also included in Sephoria for preparing and introducing part.
 
-## Resume
-See my CV in the sidebar.
+## 🌮 Taco Bell  
+**Marketing and Delivery Platform Performance**  
+At Taco Bell, I contributed to marketing projects and analyzed delivery sales to identify growth opportunities. In my first year, I worked on in-store promotions and events. Later, I focused more on performance metrics across delivery platforms, helping improve campaign results and reporting. I also supported KOL and influencer collaborations to increase visibility on social media.
