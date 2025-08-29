@@ -11,8 +11,8 @@ I am Athena Zhang, a recent graduate from Northeastern University with high hono
 <div style="font-size:0.85rem;">
 I am someone who thinks deeply and always chooses to take a step forward. My experience includes:<br>
 • A co-op at TJX focusing on store operations and analytics<br>
-• A co-op at Sephora focusing on merchandising<br>
-• Internships with Taco Bell Brand Marketing<br>
+• Internship at Sephora focusing on merchandising<br>
+• Internships with Taco Bell brand marketing<br>
 You can learn more about my background on the <a href="./about" style="color:#4DB2C2;">About</a> page.
 </div>
 
