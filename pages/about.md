@@ -6,19 +6,19 @@ classes: wide
 author_profile: true
 ---
 ## ✨ TJX  
-<p style="font-size: 19px; margin-bottom: 0;"><strong>Marmaxx Store Operations and Field Escalation</strong></p>
+<p style="font-size: 19px; margin-bottom: 0;"><strong>Marmaxx Store Operations and Field Escalation Co-op</strong></p>
 <p style="font-size: 19px; margin-top: 4px;">
 At TJX, I supported the Marmaxx Store Operations team by building dashboards in Power BI that visualized trends in store-level issues, attrition, and customer experience. I also worked on field escalation projects like revising dressing room layouts and analyzing the impact of cashier-on-wheels in high-traffic locations. I often collaborated with cross-functional teams and store managers to bring data into everyday decision making.
 </p>
 
 ## 💄 Sephora  
-<p style="font-size: 19px; margin-bottom: 0;"><strong>Omnichannel Merchandising</strong></p>
+<p style="font-size: 19px; margin-bottom: 0;"><strong>Omnichannel Merchandising Internship</strong></p>
 <p style="font-size: 19px; margin-top: 4px;">
 At Sephora, I worked across online and offline channels to support seasonal launches and core assortment planning. I used sales data to adjust product placement strategies and collaborated with regional teams to localize assortments. I was also included in Sephoria for preparing and introducing part.
 </p>
 
 ## 🌮 Taco Bell  
-<p style="font-size: 19px; margin-bottom: 0;"><strong>Brand Marketing</strong></p>
+<p style="font-size: 19px; margin-bottom: 0;"><strong>Brand Marketing Internship</strong></p>
 <p style="font-size: 19px; margin-top: 4px;">
 At Taco Bell, I contributed to marketing projects by analyzing delivery sales to identify growth opportunities. In my first year, I worked on in-store promotions and events. Later, I focused more on performance metrics across delivery platforms, helping improve campaign results and reporting. I also supported KOL and influencer collaborations to increase visibility on social media.
 </p>
