@@ -5,7 +5,6 @@ permalink: /about/
 classes: wide
 author_profile: true
 ---
-
 ## ✨ TJX  
 <p style="font-size: 19px; margin-bottom: 0;"><strong>Marmaxx Store Operations and Field Escalation</strong></p>
 <p style="font-size: 19px; margin-top: 4px;">
