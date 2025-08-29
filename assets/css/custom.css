@@ -1,4 +1,10 @@
-body, p, li {
+.page__content {
   font-size: 19px;
   line-height: 1.7;
+}
+
+.page__content p,
+.page__content li {
+  font-size: inherit;
+  line-height: inherit;
 }
