@@ -1,10 +1,10 @@
 ---
 layout: single
 permalink: /about/
+title: "About"
 classes: wide
 author_profile: true
 ---
-### About
 ## ✨ TJX  
 <p style="font-size: 19px; margin-bottom: 0;"><strong>Marmaxx Store Operations and Field Escalation</strong></p>
 <p style="font-size: 19px; margin-top: 4px;">
